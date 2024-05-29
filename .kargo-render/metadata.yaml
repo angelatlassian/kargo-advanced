@@ -1,0 +1,3 @@
+imageSubstitutions:
+- ghcr.io/angelatlassian/guestbook:v0.0.2
+sourceCommit: 4daff8d6c4e96ec6267aaff0078a973f72d5850b
